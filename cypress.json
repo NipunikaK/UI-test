@@ -1,0 +1,6 @@
+{
+    "testFiles": "**/*.feature",
+    "env": {
+        "configFile": "env"
+    }
+}
